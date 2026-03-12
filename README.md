@@ -1,3 +1,3 @@
 # Practicing Data Structures and Algorithms
 
-<img src="./dsa_roadmap.png" alt="DSA Roadmap" width="800">
+<img src="./dsa_roadmap.png" alt="DSA Roadmap" width="850">
